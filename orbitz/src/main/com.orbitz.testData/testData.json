@@ -1,0 +1,22 @@
+[
+  {
+    "searchCriteria": {
+      "originFirstAirport": "SJC",
+      "destFirstAirport": "LAX",
+      "departureDateFirst": "10/01/2020",
+      "originSecondAirport": "LAX",
+      "destSecondAirport": "DEN",
+      "departureDateSecond": "10/10/2020",
+      "originThirdAirport": "DEN",
+      "destThirdAirport": "SJC",
+      "departureDateThird": "10/15/2020",
+      "noOfAdults": "2",
+      "noOfChildren": "2",
+      "ageOfFirstChild": "12",
+      "ageOfSecondChild": "7",
+      "expDepFirstDate": "Thu, Oct 1",
+      "expDepSecondDate": "Sat, Oct 10",
+      "expDepThirdDate": "Thu, Oct 15"
+    }
+  }
+]

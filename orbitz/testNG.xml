@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Orbitz" verbose="1" >
+    <test name="Flights" >
+        <classes>
+            <class name="FlightTests" />
+        </classes>
+    </test>
+
+</suite>
