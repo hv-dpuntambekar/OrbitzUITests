@@ -1,7 +1,7 @@
 # OrbitzUITests
 
 
-Run test: Right click tesetNG.xml and click 'Run <path>/testNG.xml'
+Run test: Right click tesetNG.xml and click 'Run {path}/testNG.xml'
 
 
 This is automated UI test case for the following scenario: 
